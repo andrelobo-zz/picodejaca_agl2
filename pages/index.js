@@ -48,7 +48,8 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           {' '}
-          <img src="/vercel.svg" alt="R.U.A @agência digital 2021"  />
+          R.U.A @agência digital 2021
+          
         </a>
       </footer>
 
@@ -74,7 +75,6 @@ export default function Home() {
 
         .image {
           border-radius: 50%;
-          height: 200px;
           width: 200px;
         }
 
@@ -139,7 +139,7 @@ export default function Home() {
         .card:active {
           color: #fff;
          
-          background-color:#8ac926;
+          background-color:#6cfe40;
         }
 
         .card h3 {
@@ -148,7 +148,7 @@ export default function Home() {
         }
 
         .footer {
-          color:#8ac926;
+          color:#6cfe40;
           width: 100%;
           height: 100px;
           border-top: 1px solid #eaeaea;
@@ -190,7 +190,7 @@ export default function Home() {
         body {
           padding: 0;
           margin: 0;
-          font-family:  Noto Sans, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+          font-family:  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
             sans-serif;
         }
 
